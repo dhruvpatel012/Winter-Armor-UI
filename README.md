@@ -11,7 +11,7 @@ The idea of this project was to create a winter jacket product page with a moder
 # Project Preview
 ---
 
-# 💡 About This Project
+# About This Project
 
 I created this project while practicing frontend development and UI designing.
 
