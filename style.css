@@ -129,7 +129,7 @@ body {
     margin-bottom: 10px;
 }
 
-.title p{
+.title p {
     font-size: 1.4rem;
 }
 
@@ -165,6 +165,12 @@ body {
 .description span {
     font-weight: bold;
     font-size: 0.7rem;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.description span:hover {
+    transform: translateX(3px);
 }
 
 .care-return {
@@ -200,6 +206,19 @@ body {
     max-width: 450px;
     height: auto;
     filter: drop-shadow(0px 0px 8px black);
+
+    animation: center-img 2s ease-in-out infinite alternate;
+    transition: all 0.3 ease;
+}
+
+@keyframes center-img {
+    from {
+        transform: translateY(0px);
+    }
+
+    to {
+        transform: translateY(-15px)
+    }
 }
 
 .img-details {
