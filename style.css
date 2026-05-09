@@ -211,6 +211,7 @@ body {
     transition: all 0.3 ease;
 }
 
+
 @keyframes center-img {
     from {
         transform: translateY(0px);
