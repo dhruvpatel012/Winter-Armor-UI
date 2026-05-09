@@ -1,44 +1,73 @@
-# ASTRO Winter Armor UI
+# ASTRO Winter Armor
 
-A modern winter jacket product landing page made using only HTML and CSS.  
-This project is inspired by modern e-commerce fashion websites and focuses on clean UI design, product showcasing, spacing, layout structure, hover effects, and visual hierarchy.
+A creative product landing page UI made using HTML and CSS.
 
----
+This project is mainly focused on improving frontend design skills, layout making, UI structure, spacing, hover effects, and modern product showcase styling.
 
-## Preview
-
-This project contains:
-
-- Responsive style product showcase layout
-- Modern navigation bar
-- Product image section
-- Size and color selection UI
-- Feature cards
-- Buttons with hover effects
-- Clean modern typography
-- Flexbox and Grid based layout
+The idea of this project was to create a winter jacket product page with a modern and premium look.
 
 ---
 
-## Technologies Used
+# Project Preview
+---
+
+# About This Project
+
+I created this project while practicing frontend development and UI designing.
+
+The main focus of this project was:
+
+- Building a clean product page UI
+- Creating modern layouts
+- Adding hover effects and animations
+- Improving CSS styling skills
+- Learning how real product showcase pages are designed
+
+This is not a responsive project right now.
+
+The design works properly on screens around **1089px width and above**.  
+Tablet and mobile responsiveness is not added yet because the main goal of this project was UI practice and layout designing.
+
+---
+
+#  Technologies Used
 
 - HTML5
 - CSS3
+- Flexbox
+- CSS Grid
+- Font Awesome
 - Remix Icons
-- Font Awesome Icons
 
 ---
 
-## Project Structure
+# Features
+
+- Modern winter fashion UI
+- Product showcase layout
+- Floating jacket animation
+- Hover effects
+- Product color cards
+- Feature sections
+- Styled navigation bar
+- Clean typography
+- Interactive buttons
+
+---
+
+# Folder Structure
 
 ```bash
 ASTRO-Winter-Armor/
 │
 ├── index.html
 ├── style.css
-├── README.md
+├── preview.png
+│
 └── imagee/
-    ├── Puffer Jacket.png
+    ├── puffer-jacket.png
     ├── red-puffer.png
+    ├── black-puffer.png
+    └── white-puffer.png
     ├── black-puffer.png
     └── white-puffer.png
